@@ -1,4 +1,4 @@
-# Project Title
+# Create a NFT Collection
 
 Simple overview of use/purpose.
 
